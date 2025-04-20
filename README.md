@@ -1,3 +1,5 @@
+# 📊 Forum Page View Analysis
+
 This project analyzes **daily page views** on the FreeCodeCamp forum using time series data. It includes data cleaning and visualizations built with **Matplotlib** and **Seaborn**.
 
 ## 📁 Overview
