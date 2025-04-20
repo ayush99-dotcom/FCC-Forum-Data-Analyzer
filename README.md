@@ -2,7 +2,6 @@ This project analyzes **daily page views** on the FreeCodeCamp forum using time 
 
 ## 📁 Overview
 
-- **Dataset**: `fcc-forum-pageviews.csv`
 - **Goal**: Visualize trends and distributions in page views over time.
 - **Tools**: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
